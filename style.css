@@ -1,0 +1,33 @@
+.heading 
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color: rgb(247, 228, 62);
+    font-family: 'Comic Neue', cursive;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: 'Comic Neue', cursive;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #4AAA1A ;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Zeyada', cursive;
+    font-size: x-large;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
